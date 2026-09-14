@@ -1,11 +1,11 @@
 # syn.rsvim
 
 <a href="https://www.npmjs.com/package/@rsvim/syn.rsvim"><img alt="rsvim" src="https://img.shields.io/npm/v/%40rsvim%2Fsyn.rsvim" /></a>
-<a href="https://github.com/rsvim/syn.rsvim/actions/workflows/ci.yml"><img alt="ci.yml" src="https://img.shields.io/github/actions/workflow/status/rsvim/syn.rsvim/ci.yml?branch=main&label=ci" /></a>
+<a href="https://github.com/mivsr/syn.rsvim/actions/workflows/ci.yml"><img alt="ci.yml" src="https://img.shields.io/github/actions/workflow/status/mivsr/syn.rsvim/ci.yml?branch=main&label=ci" /></a>
 
 ## About
 
-Tree-sitter parsers for Rsvim syntax.
+Tree-sitter parsers for Rsvim syntax and highlights.
 
 ## Installation
 
