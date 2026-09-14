@@ -46,8 +46,8 @@ npm install syn.rsvim
 Setup in your config entry script:
 
 ```javascript
-import ex from "syn.rsvim";
-ex.setup();
+import syn from "syn.rsvim";
+syn.setup();
 ```
 
 The `setup` function accepts an optional object, by default is:
@@ -63,8 +63,8 @@ const DefaultSetupOptions: SetupOptions = {
 You can pass your custom options when setup:
 
 ```javascript
-import ex from "syn.rsvim";
-ex.setup({
+import syn from "syn.rsvim";
+syn.setup({
   // Your configurations here...
 });
 ```
