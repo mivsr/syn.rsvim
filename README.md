@@ -25,10 +25,10 @@ Then install with either `git` or `npm`.
 
 ```bash
 # tag
-git clone --branch=v0.2.1 https://github.com/rsvim/syn.rsvim syn.rsvim
+git clone --branch=v0.2.1 https://github.com/rsvim/syn.rsvim
 
 # develop
-git clone --branch=main https://github.com/rsvim/syn.rsvim syn.rsvim
+git clone --branch=main https://github.com/rsvim/syn.rsvim
 ```
 
 ### npm
