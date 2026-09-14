@@ -52,7 +52,7 @@ ex.setup();
 
 The `setup` function accepts an optional object, by default is:
 
-<!-- https://github.com/mivsr/syn.rsvim/blob/47447301c8ca909171f8e41f03761392763eac99/src/index.ts?plain=1#L25-L27 -->
+<!-- https://github.com/mivsr/syn.rsvim/blob/5fd52a918085db4ffa03cb6d7c1e28bdbc30dfcb/src/index.ts?plain=1#L5-L7 -->
 
 ```typescript
 const DefaultSetupOptions: SetupOptions = {
